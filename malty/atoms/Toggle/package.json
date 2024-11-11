@@ -23,7 +23,7 @@
     "@carlsberg/malty.utils.space": "^0.1.0",
     "core-js": "^3.0.0",
     "styled-components": "^5.3.6",
-    "uuid": "^9.0.0"
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
     "@babel/runtime": "7.12.18",
