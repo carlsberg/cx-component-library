@@ -28,7 +28,7 @@
     "core-js": "^3.0.0",
     "react-datepicker": "^4.8.0",
     "styled-components": "^5.3.6",
-    "uuid": "^9.0.0"
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@babel/runtime": "^7.12.18",
